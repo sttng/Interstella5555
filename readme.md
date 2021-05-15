@@ -23,6 +23,6 @@ As this was many, many years ago, I actually can't remember the quality of the m
 # PAL BD
 ## Technical Details
 
-- Resolution: 1920x1080 (Upscale from ...)
+- Resolution: 1920x1080 (Looks like an Upscale from the PAL DVD)
 - Frame Rate: 25
 - Duration: 01:05:35.0400000
