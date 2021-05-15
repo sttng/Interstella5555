@@ -9,7 +9,20 @@ As this was many, many years ago, I actually can't remember the quality of the m
 # PAL DVD
 ## Technical Details
 
-Resolution: 720x576
-Frame Rate: 25
-Duration: 01:05:12.000
+- Resolution: 720x576
+- Frame Rate: 25
+- Duration: 01:05:12.000
 
+# NTSC (J) DVD
+## Technical Details
+
+- Resolution: 720x480
+- Frame Rate: 29.970030
+- Duration:
+
+# PAL BD
+## Technical Details
+
+- Resolution: 1920x1080 (Upscale from ...)
+- Frame Rate: 25
+- Duration: 01:05:35.0400000
