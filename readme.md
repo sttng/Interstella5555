@@ -50,3 +50,9 @@ PAL DVD Timecode: approx. 02:45 (its the 1st frame after the dancing crowd)
 ![NTSC (J) vs PAL DVD](https://raw.githubusercontent.com/sttng/Interstella5555/main/NTSC_J_vs_PAL_DVD_04.png "NTSC (J) vs PAL DVD")
 ![PAL BD](https://raw.githubusercontent.com/sttng/Interstella5555/main/PAL_BD_04.png "PAL BD")
 PAL DVD Timecode: approx. 02:51 
+
+# Findings
+
+- Based on the interlacing comparison the PAL BD seems to be an upscale from the PAL DVD. 
+- The PAL BD is cropped at the top and bottom compared to the PAL DVD.
+- The NTSC (J) DVD is cropped at the top and bottom compared to the PAL DVD.
