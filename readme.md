@@ -7,6 +7,9 @@ one of the first things I did was buying a ticket to see in on the big screen in
 As this was many, many years ago, I actually can't remember the quality of the movie in the theater - meaning I actually don't really know if it was a blown-up version with a soft, pixelated look or not.
 
 # PAL DVD
+![PAL DVD Cover](https://raw.githubusercontent.com/sttng/Interstella5555/main/Interstella%205555%20Cover%20(PAL%20DVD).jpg "PAL DVD Cover")
+
+
 ## Technical Details
 
 - Resolution: 720x576
@@ -26,3 +29,24 @@ As this was many, many years ago, I actually can't remember the quality of the m
 - Resolution: 1920x1080 (Looks like an Upscale from the PAL DVD)
 - Frame Rate: 25
 - Duration: 01:05:35.0400000
+
+
+# Comparison
+
+NTSC (J) DVD: left, PAL DVD: right, PAL BD: bottom
+
+![NTSC (J) vs PAL DVD](https://raw.githubusercontent.com/sttng/Interstella5555/main/NTSC_J_vs_PAL_DVD_01.png "NTSC (J) vs PAL DVD")
+![PAL BD](https://raw.githubusercontent.com/sttng/Interstella5555/main/PAL_BD_01.png "PAL BD")
+PAL DVD Timecode: approx. 02:40 (its the last frame before switching to the drums)
+
+![NTSC (J) vs PAL DVD](https://raw.githubusercontent.com/sttng/Interstella5555/main/NTSC_J_vs_PAL_DVD_02.png "NTSC (J) vs PAL DVD")
+![PAL BD](https://raw.githubusercontent.com/sttng/Interstella5555/main/PAL_BD_02.png "PAL BD")
+PAL DVD Timecode: approx. 02:40 (its the 5th frame after switching to the drums)
+
+![NTSC (J) vs PAL DVD](https://raw.githubusercontent.com/sttng/Interstella5555/main/NTSC_J_vs_PAL_DVD_03.png "NTSC (J) vs PAL DVD")
+![PAL BD](https://raw.githubusercontent.com/sttng/Interstella5555/main/PAL_BD_03.png "PAL BD")
+PAL DVD Timecode: approx. 02:45 (its the 1st frame after the dancing crowd)
+
+![NTSC (J) vs PAL DVD](https://raw.githubusercontent.com/sttng/Interstella5555/main/NTSC_J_vs_PAL_DVD_04.png "NTSC (J) vs PAL DVD")
+![PAL BD](https://raw.githubusercontent.com/sttng/Interstella5555/main/PAL_BD_04.png "PAL BD")
+PAL DVD Timecode: approx. 02:51 
