@@ -24,6 +24,8 @@ As this was many, many years ago, I actually can't remember the quality of the m
 - Duration:
 
 # PAL BD
+![PAL BD Cover](https://raw.githubusercontent.com/sttng/Interstella5555/main/%20Interstella%205555%20Cover%20(PAL%20BD).jpg "PAL BD Cover")
+
 ## Technical Details
 
 - Resolution: 1920x1080 (Looks like an Upscale from the PAL DVD)
