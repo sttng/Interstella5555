@@ -57,6 +57,6 @@ PAL DVD Timecode: approx. 33:13
 
 # Findings
 
-- Based on the interlacing comparison the PAL BD seems to be an upscale from the PAL DVD. 
+- Based on the interlacing comparison the PAL BD seems to be an upscale from the PAL DVD with simple frame blending as "deinterlacing".
 - The PAL BD is cropped at the top and bottom compared to the PAL DVD.
 - The NTSC (J) DVD is cropped at the top and bottom compared to the PAL DVD.
