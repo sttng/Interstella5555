@@ -86,3 +86,7 @@ PAL DVD Timecode: approx. 33:13
 - The NTSC (J) DVD seems to be produced using a 3:2 pull down Telecine conversion from 24 frames/s to ~29.97 frame/s.
 - No version is using progessive frames unfortunately.
 - The PAL (DVD) version seems to be the "best" version as it retains the most image information - due to having no or the smallest cropping and also having approx 20% (or 96 additional lines) higher vertical resolution then the NTSC (J) DVD.
+
+# Discussion
+
+- https://forum.blu-ray.com/showthread.php?t=180760
