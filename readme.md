@@ -57,8 +57,9 @@ As this was many, many years ago, I actually can't remember the quality of the m
 
 NTSC (J) DVD: left, PAL DVD: right, PAL BD: bottom
 
-![NTSC (J) vs PAL DVD](https://raw.githubusercontent.com/sttng/Interstella5555/main/NTSC_J_vs_PAL_DVD_01.png "NTSC (J) vs PAL DVD")
-![PAL BD](https://raw.githubusercontent.com/sttng/Interstella5555/main/PAL_BD_01.png "PAL BD")
+![NTSC (J) DVD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screen01/NTSC_J-DVD-01.png "NTSC (J) DVD")
+![PAL DVD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screen01/PAL-DVD-01.png "PAL DVD")
+![PAL BD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screen01/PAL-BD-01.png "PAL BD")
 PAL DVD Timecode: approx. 02:40 (its the last frame before switching to the drums)
 
 ![NTSC (J) vs PAL DVD](https://raw.githubusercontent.com/sttng/Interstella5555/main/NTSC_J_vs_PAL_DVD_02.png "NTSC (J) vs PAL DVD")
