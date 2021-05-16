@@ -9,7 +9,6 @@ As this was many, many years ago, I actually can't remember the quality of the m
 # PAL DVD
 ![PAL DVD Cover](https://raw.githubusercontent.com/sttng/Interstella5555/main/Interstella%205555%20Cover%20(PAL%20DVD).jpg "PAL DVD Cover")
 
-
 ## Technical Details
 
 - Resolution: 720x576
@@ -17,6 +16,8 @@ As this was many, many years ago, I actually can't remember the quality of the m
 - Duration: 01:05:12.000
 
 # NTSC (J) DVD
+![NTSC J DVD Cover](https://raw.githubusercontent.com/sttng/Interstella5555/main/Interstella%205555%20Cover%20(NTSC%20J%20DVD).jpg "NTSC (J) DVD Cover")
+
 ## Technical Details
 
 - Resolution: 720x480
