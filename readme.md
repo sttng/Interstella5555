@@ -14,6 +14,7 @@ As this was many, many years ago, I actually can't remember the quality of the m
 - Resolution: 720x576
 - Frame Rate: 25
 - Duration: 01:05:12.000
+- Frames: 97800
 
 # NTSC (J) DVD
 ![NTSC J DVD Cover](https://raw.githubusercontent.com/sttng/Interstella5555/main/Interstella%205555%20Cover%20(NTSC%20J%20DVD).jpg "NTSC (J) DVD Cover")
@@ -32,6 +33,7 @@ As this was many, many years ago, I actually can't remember the quality of the m
 - Resolution: 1920x1080 (Looks like an Upscale from the PAL DVD)
 - Frame Rate: 25
 - Duration: 01:05:35.0400000
+- Frames: 98376
 
 
 # Comparison
