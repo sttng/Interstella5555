@@ -4,6 +4,7 @@ When "One More Time" was released in late 2000 and I first saw the music video o
 One of my favourite bands (Daft Punk) created a Japanese Anime music video matching the style of one of my favourite TV shows as a kid - Queen Millennia (新竹取物語・1000年女王).
 I couldn't wait for the collaboration to finish and when Interstella 5555: The 5tory of the 5ecret 5tar 5ystem (インターステラ5555) was finally released in 2003, 
 one of the first things I did was buying a ticket to see in on the big screen in my local movie theater.
+
 As this was many, many years ago, I actually can't remember the quality of the movie in the theater - meaning I actually don't really know if it was a blown-up version with a soft, pixelated look or not.
 
 # PAL DVD
@@ -12,7 +13,7 @@ As this was many, many years ago, I actually can't remember the quality of the m
 ![PAL DVD Cover](https://raw.githubusercontent.com/sttng/Interstella5555/main/Interstella%205555%20Cover%20(PAL%20DVD).jpg "PAL DVD Cover")
 
 ## Sample
-https://1drv.ms/u/s!Agb2vAsok0UBhDEtoHtGrsP9AgvY?e=M1cAUW
+[200s example of the PAL DVD](https://1drv.ms/u/s!Agb2vAsok0UBhDEtoHtGrsP9AgvY?e=M1cAUW)
 
 ## Technical Details
 
@@ -28,7 +29,7 @@ https://1drv.ms/u/s!Agb2vAsok0UBhDEtoHtGrsP9AgvY?e=M1cAUW
 ![NTSC J DVD Cover](https://raw.githubusercontent.com/sttng/Interstella5555/main/Interstella%205555%20Cover%20(NTSC%20J%20DVD).jpg "NTSC (J) DVD Cover")
 
 ## Sample
-https://1drv.ms/u/s!Agb2vAsok0UBhDInU00_owm6IsuL?e=eucgcR
+[200s example of the NTSC J DVD](https://1drv.ms/u/s!Agb2vAsok0UBhDInU00_owm6IsuL?e=eucgcR)
 
 ## Technical Details
 
@@ -42,7 +43,7 @@ https://1drv.ms/u/s!Agb2vAsok0UBhDInU00_owm6IsuL?e=eucgcR
 ![PAL BD Cover](https://raw.githubusercontent.com/sttng/Interstella5555/main/%20Interstella%205555%20Cover%20(PAL%20BD).jpg "PAL BD Cover")
 
 ## Sample
-https://1drv.ms/u/s!Agb2vAsok0UBhDM9Y1-fP1S9nyca?e=4a2EIU
+[200s example of the PAL BD](https://1drv.ms/u/s!Agb2vAsok0UBhDM9Y1-fP1S9nyca?e=4a2EIU)
 
 ## Technical Details
 
@@ -78,7 +79,7 @@ PAL DVD Timecode: approx. 33:13
 
 # Findings
 
-- Based on the interlacing comparison the PAL BD seems to be an upscale from the PAL DVD with simple frame blending as "deinterlacing".
+- Based on the interlacing comparison the PAL BD seems to be an upscale from the PAL DVD or of a pan-and-scan 4:3 PAL master with simple frame blending as "deinterlacing".
 - The PAL BD is cropped at the top and bottom compared to the PAL DVD.
 - The NTSC (J) DVD is cropped at the top and bottom compared to the PAL DVD.
 - The NTSC (J) DVD seems to be produced using a 3:2 pull down Telecine conversion from 24 frames/s to ~29.97 frame/s.
