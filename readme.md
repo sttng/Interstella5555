@@ -7,7 +7,12 @@ one of the first things I did was buying a ticket to see in on the big screen in
 As this was many, many years ago, I actually can't remember the quality of the movie in the theater - meaning I actually don't really know if it was a blown-up version with a soft, pixelated look or not.
 
 # PAL DVD
+
+## Cover
 ![PAL DVD Cover](https://raw.githubusercontent.com/sttng/Interstella5555/main/Interstella%205555%20Cover%20(PAL%20DVD).jpg "PAL DVD Cover")
+
+## Sample
+https://1drv.ms/u/s!Agb2vAsok0UBhDEtoHtGrsP9AgvY?e=M1cAUW
 
 ## Technical Details
 
@@ -16,8 +21,14 @@ As this was many, many years ago, I actually can't remember the quality of the m
 - Duration: 01:05:12.000
 - Frames: 97800
 
+
 # NTSC (J) DVD
+
+## Cover
 ![NTSC J DVD Cover](https://raw.githubusercontent.com/sttng/Interstella5555/main/Interstella%205555%20Cover%20(NTSC%20J%20DVD).jpg "NTSC (J) DVD Cover")
+
+## Sample
+https://1drv.ms/u/s!Agb2vAsok0UBhDInU00_owm6IsuL?e=eucgcR
 
 ## Technical Details
 
@@ -26,7 +37,12 @@ As this was many, many years ago, I actually can't remember the quality of the m
 - Duration:
 
 # PAL BD
+
+## Cover
 ![PAL BD Cover](https://raw.githubusercontent.com/sttng/Interstella5555/main/%20Interstella%205555%20Cover%20(PAL%20BD).jpg "PAL BD Cover")
+
+## Sample
+https://1drv.ms/u/s!Agb2vAsok0UBhDM9Y1-fP1S9nyca?e=4a2EIU
 
 ## Technical Details
 
