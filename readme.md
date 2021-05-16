@@ -43,7 +43,7 @@ As this was many, many years ago, I actually can't remember the quality of the m
 ![PAL BD Cover](https://raw.githubusercontent.com/sttng/Interstella5555/main/%20Interstella%205555%20Cover%20(PAL%20BD).jpg "PAL BD Cover")
 
 ## Sample
-[200s example of the PAL BD](https://onedrive.live.com/embed?cid=014593280BBCF606&resid=14593280BBCF606%21563&authkey=AJXppKSYscdsEds)
+[200s example of the PAL BD](https://mega.nz/file/f3BVnAoa#ROjj9D_lG1A_Tk_jhD4p8kUAcvU1AbDTvyWVSOdGRlw)
 
 ## Technical Details
 
