@@ -13,9 +13,7 @@ As this was many, many years ago, I actually can't remember the quality of the m
 ![PAL DVD Cover](https://raw.githubusercontent.com/sttng/Interstella5555/main/Interstella%205555%20Cover%20(PAL%20DVD).jpg "PAL DVD Cover")
 
 ## Sample
-<iframe src="https://onedrive.live.com/embed?cid=014593280BBCF606&resid=14593280BBCF606%21562&authkey=AAanpZNxZkh5EpI" width="98" height="120" frameborder="0" scrolling="no"></iframe>
-
-[200s example of the PAL DVD](https://1drv.ms/u/s!Agb2vAsok0UBhDEtoHtGrsP9AgvY?e=M1cAUW)
+[200s example of the PAL DVD](https://onedrive.live.com/embed?cid=014593280BBCF606&resid=14593280BBCF606%21561&authkey=AKiOn1Rs7p77cHY)
 
 ## Technical Details
 
@@ -31,7 +29,7 @@ As this was many, many years ago, I actually can't remember the quality of the m
 ![NTSC J DVD Cover](https://raw.githubusercontent.com/sttng/Interstella5555/main/Interstella%205555%20Cover%20(NTSC%20J%20DVD).jpg "NTSC (J) DVD Cover")
 
 ## Sample
-[200s example of the NTSC J DVD](https://1drv.ms/u/s!Agb2vAsok0UBhDInU00_owm6IsuL?e=eucgcR)
+[200s example of the NTSC J DVD](https://onedrive.live.com/embed?cid=014593280BBCF606&resid=14593280BBCF606%21562&authkey=AAanpZNxZkh5EpI)
 
 ## Technical Details
 
@@ -45,7 +43,7 @@ As this was many, many years ago, I actually can't remember the quality of the m
 ![PAL BD Cover](https://raw.githubusercontent.com/sttng/Interstella5555/main/%20Interstella%205555%20Cover%20(PAL%20BD).jpg "PAL BD Cover")
 
 ## Sample
-[200s example of the PAL BD](https://1drv.ms/u/s!Agb2vAsok0UBhDM9Y1-fP1S9nyca?e=4a2EIU)
+[200s example of the PAL BD](https://onedrive.live.com/embed?cid=014593280BBCF606&resid=14593280BBCF606%21563&authkey=AJXppKSYscdsEds)
 
 ## Technical Details
 
