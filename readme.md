@@ -70,8 +70,9 @@ PAL DVD Timecode: approx. 02:40 (its the last frame before switching to the drum
 ![PAL BD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screen02/PAL-BD-02.png "PAL BD")
 PAL DVD Timecode: approx. 02:40 (its the 5th frame after switching to the drums)
 
-![NTSC (J) vs PAL DVD](https://raw.githubusercontent.com/sttng/Interstella5555/main/NTSC_J_vs_PAL_DVD_03.png "NTSC (J) vs PAL DVD")
-![PAL BD](https://raw.githubusercontent.com/sttng/Interstella5555/main/PAL_BD_03.png "PAL BD")
+![NTSC (J) DVD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screen03/NTSC_J-DVD-03.png "NTSC (J) DVD")
+![PAL DVD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screen03/PAL-DVD-03.png "PAL DVD")
+![PAL BD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screen03/PAL-BD-03.png "PAL BD")
 PAL DVD Timecode: approx. 02:45 (its the 1st frame after the dancing crowd)
 
 ![NTSC (J) vs PAL DVD](https://raw.githubusercontent.com/sttng/Interstella5555/main/NTSC_J_vs_PAL_DVD_04.png "NTSC (J) vs PAL DVD")
