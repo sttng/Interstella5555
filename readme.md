@@ -18,6 +18,7 @@ As this was many, many years ago, I actually can't remember the quality of the m
 ## Technical Details
 
 - Resolution: 720x576
+- Display Size: 768x576
 - Frame Rate: 25
 - Duration: 01:05:12.000
 - Frames: 97800
@@ -34,6 +35,7 @@ As this was many, many years ago, I actually can't remember the quality of the m
 ## Technical Details
 
 - Resolution: 720x480
+- Display Size: 640x480
 - Frame Rate: 29.970030
 - Duration:
 
@@ -47,7 +49,8 @@ As this was many, many years ago, I actually can't remember the quality of the m
 
 ## Technical Details
 
-- Resolution: 1920x1080 (Looks like an Upscale from the PAL DVD)
+- Resolution: 1920x1080 (looks like an ppscale from the PAL DVD)
+- Display Size: 1920x1080 
 - Frame Rate: 25
 - Duration: 01:05:35.0400000
 - Frames: 98376
@@ -55,7 +58,7 @@ As this was many, many years ago, I actually can't remember the quality of the m
 
 # Comparison
 
-NTSC (J) DVD: left, PAL DVD: right, PAL BD: bottom
+NTSC (J) DVD, PAL DVD, PAL BD
 
 ![NTSC (J) DVD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screen01/NTSC_J-DVD-01.png "NTSC (J) DVD")
 ![PAL DVD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screen01/PAL-DVD-01.png "PAL DVD")
