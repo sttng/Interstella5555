@@ -23,6 +23,46 @@ As this was many, many years ago, I actually can't remember the quality of the m
 - Duration: 01:05:12.000
 - Frames: 97800
 
+### MediaInfo
+
+```
+Video
+ID                                       : 224 (0xE0)
+Format                                   : MPEG Video
+Format version                           : Version 2
+Format profile                           : Main@Main
+Format settings                          : CustomMatrix / BVOP
+Format settings, BVOP                    : Yes
+Format settings, Matrix                  : Custom
+Format settings, GOP                     : M=3, N=12
+Format settings, picture structure       : Frame
+Codec ID                                 : V_MPEG2
+Codec ID/Info                            : MPEG 1 or 2 Video
+Duration                                 : 1 h 5 min
+Bit rate mode                            : Variable
+Bit rate                                 : 7 013 kb/s
+Maximum bit rate                         : 7 800 kb/s
+Width                                    : 720 pixels
+Height                                   : 576 pixels
+Display aspect ratio                     : 4:3
+Frame rate mode                          : Constant
+Frame rate                               : 25.000 FPS
+Standard                                 : PAL
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Interlaced
+Scan order                               : Top Field First
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.676
+Time code of first frame                 : 10:00:00:00
+Time code source                         : Group of pictures header
+GOP, Open/Closed                         : Open
+Stream size                              : 3.19 GiB (94%)
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+```
 
 # NTSC (J) DVD
 
@@ -54,6 +94,44 @@ As this was many, many years ago, I actually can't remember the quality of the m
 - Frame Rate: 25
 - Duration: 01:05:35.0400000
 - Frames: 98376
+
+```
+Video
+ID                                       : 4113 (0x1011)
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings                          : CABAC / 4 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 4 frames
+Format settings, GOP                     : M=3, N=24
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1 h 5 min
+Bit rate mode                            : Variable
+Bit rate                                 : 22.7 Mb/s
+Maximum bit rate                         : 30.0 Mb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 25.000 FPS
+Standard                                 : Component
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : MBAFF
+Scan type, store method                  : Interleaved fields
+Scan order                               : Top Field First
+Bits/(Pixel*Frame)                       : 0.438
+Stream size                              : 10.4 GiB (84%)
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+```
 
 # Findings
 
