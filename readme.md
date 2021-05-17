@@ -58,7 +58,7 @@ Bits/(Pixel*Frame)                       : 0.676
 Time code of first frame                 : 10:00:00:00
 Time code source                         : Group of pictures header
 GOP, Open/Closed                         : Open
-Stream size                              : 3.19 GiB (94%)
+Stream size                              : 3.19 GiB
 Language                                 : English
 Default                                  : No
 Forced                                   : No
@@ -114,7 +114,7 @@ Bits/(Pixel*Frame)                       : 0.649
 Time code of first frame                 : 10:00:00;00
 Time code source                         : Group of pictures header
 GOP, Open/Closed                         : Open
-Stream size                              : 3.06 GiB (94%)
+Stream size                              : 3.06 GiB
 Language                                 : English
 Default                                  : No
 Forced                                   : No
@@ -166,7 +166,7 @@ Scan type                                : MBAFF
 Scan type, store method                  : Interleaved fields
 Scan order                               : Top Field First
 Bits/(Pixel*Frame)                       : 0.438
-Stream size                              : 10.4 GiB (84%)
+Stream size                              : 10.4 GiB
 Language                                 : English
 Default                                  : No
 Forced                                   : No
