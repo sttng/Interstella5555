@@ -55,8 +55,21 @@ As this was many, many years ago, I actually can't remember the quality of the m
 - Duration: 01:05:35.0400000
 - Frames: 98376
 
+# Findings
 
-# Comparison
+- Based on the interlacing comparison the PAL BD seems to be an upscale from the PAL DVD or of a pan-and-scan 4:3 PAL master with simple frame blending as "deinterlacing".
+- The PAL BD is cropped at the top and bottom compared to the PAL DVD.
+- The NTSC (J) DVD is cropped at the top and bottom compared to the PAL DVD.
+- The NTSC (J) DVD seems to be produced using a 3:2 pull down Telecine conversion from 24 frames/s to ~29.97 frame/s.
+- No version is using progessive frames unfortunately.
+- The PAL (DVD) version seems to be the "best" version as it retains the most image information - due to having no or the smallest cropping and also having approx 20% (or 96 additional lines) higher vertical resolution then the NTSC (J) DVD.
+
+## Cropping Examples
+![Cropping Comparison](https://raw.githubusercontent.com/sttng/Interstella5555/main/Cropping_Examples.jpg "Cropping Comparison")
+
+The PAL BD has the most cropping, the NTSC (J) DVD has minor cropping, the PAL DVD has the least or no cropping and sometimes has 3-4 pixels of black bars at the top and bottom, which indicates the full movie frame was scanned with slight savety margin (no cropping).
+
+# Comparison Examples
 
 NTSC (J) DVD, PAL DVD, PAL BD
 
@@ -89,20 +102,6 @@ PAL DVD Timecode: approx. 24:05
 ![PAL DVD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screen05/PAL-DVD-05.png "PAL DVD")
 ![PAL BD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screen05/PAL-BD-05.png "PAL BD")
 PAL DVD Timecode: approx. 33:13 
-
-# Findings
-
-- Based on the interlacing comparison the PAL BD seems to be an upscale from the PAL DVD or of a pan-and-scan 4:3 PAL master with simple frame blending as "deinterlacing".
-- The PAL BD is cropped at the top and bottom compared to the PAL DVD.
-- The NTSC (J) DVD is cropped at the top and bottom compared to the PAL DVD.
-- The NTSC (J) DVD seems to be produced using a 3:2 pull down Telecine conversion from 24 frames/s to ~29.97 frame/s.
-- No version is using progessive frames unfortunately.
-- The PAL (DVD) version seems to be the "best" version as it retains the most image information - due to having no or the smallest cropping and also having approx 20% (or 96 additional lines) higher vertical resolution then the NTSC (J) DVD.
-
-## Cropping Examples
-![Cropping Comparison](https://raw.githubusercontent.com/sttng/Interstella5555/main/Cropping_Examples.jpg "Cropping Comparison")
-
-The PAL BD has the most cropping, the NTSC (J) DVD has minor cropping, the PAL DVD has the least or no cropping and sometimes has 3-4 pixels of black bars at the top and bottom, which indicates the full movie frame was scanned with slight savety margin (no cropping).
 
 # Discussion
 
