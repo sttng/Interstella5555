@@ -99,6 +99,11 @@ PAL DVD Timecode: approx. 33:13
 - No version is using progessive frames unfortunately.
 - The PAL (DVD) version seems to be the "best" version as it retains the most image information - due to having no or the smallest cropping and also having approx 20% (or 96 additional lines) higher vertical resolution then the NTSC (J) DVD.
 
+## Cropping Examples
+![Cropping Comparison](https://raw.githubusercontent.com/sttng/Interstella5555/main/Cropping_Examples.jpg "Cropping Comparison")
+
+The PAL BD has the most cropping, the NTSC (J) DVD has minor cropping, the PAL DVD has the least or no cropping and sometimes has 3-4 pixels of black bars at the top and bottom, which indicates the full movie frame was scanned with slight savety margin (no cropping).
+
 # Discussion
 
 - https://forum.blu-ray.com/showthread.php?t=180760
