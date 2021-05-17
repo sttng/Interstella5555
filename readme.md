@@ -49,7 +49,7 @@ As this was many, many years ago, I actually can't remember the quality of the m
 
 ## Technical Details
 
-- Resolution: 1920x1080 (looks like an ppscale from the PAL DVD)
+- Resolution: 1920x1080 (looks like an upscale from the PAL DVD or the pan-and-scan 4:3 PAL master)
 - Display Size: 1920x1080 
 - Frame Rate: 25
 - Duration: 01:05:35.0400000
