@@ -85,8 +85,9 @@ PAL DVD Timecode: approx. 02:51 (its the 3rd frame of Baryl the drummer)
 ![PAL BD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screen06/PAL-BD-06.png "PAL BD")
 PAL DVD Timecode: approx. 24:05
 
-![NTSC (J) vs PAL DVD](https://raw.githubusercontent.com/sttng/Interstella5555/main/NTSC_J_vs_PAL_DVD_05.png "NTSC (J) vs PAL DVD")
-![PAL BD](https://raw.githubusercontent.com/sttng/Interstella5555/main/PAL_BD_05.png "PAL BD")
+![NTSC (J) DVD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screen05/NTSC_J-DVD-05.png "NTSC (J) DVD")
+![PAL DVD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screen05/PAL-DVD-05.png "PAL DVD")
+![PAL BD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screen05/PAL-BD-05.png "PAL BD")
 PAL DVD Timecode: approx. 33:13 
 
 # Findings
