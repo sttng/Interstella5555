@@ -10,23 +10,22 @@ As this was many, many years ago, I actually can't remember the quality of the m
 # PAL DVD
 
 ## Cover
-![PAL DVD Cover](https://raw.githubusercontent.com/sttng/Interstella5555/main/Interstella%205555%20Cover%20(PAL%20DVD).jpg "PAL DVD Cover")
+<img src="https://raw.githubusercontent.com/sttng/Interstella5555/main/Interstella%205555%20Cover%20(PAL%20DVD).jpg" width="600">
 
 ## Sample
 [200s example of the PAL DVD](https://mega.nz/file/D7YnVYKS#5wvRYBKI3nhoGV81PQk6zWD5A-Qy5QTgXEh2wTV0BY8)
 
-## Technical Details
+## Technical Details (Video)
 
 - Resolution: 720x576
 - Display Size: 768x576
 - Frame Rate: 25
 - Duration: 01:05:12.000
-- Frames: 97800
+- No. of Frames: 97800
 
-### MediaInfo
+### MediaInfo (Video)
 
 ```
-Video
 ID                                       : 224 (0xE0)
 Format                                   : MPEG Video
 Format version                           : Version 2
@@ -67,22 +66,22 @@ Forced                                   : No
 # NTSC (J) DVD
 
 ## Cover
-![NTSC J DVD Cover](https://raw.githubusercontent.com/sttng/Interstella5555/main/Interstella%205555%20Cover%20(NTSC%20J%20DVD).jpg "NTSC (J) DVD Cover")
+<img src="https://raw.githubusercontent.com/sttng/Interstella5555/main/Interstella%205555%20Cover%20(NTSC%20J%20DVD).jpg" width="600">
 
 ## Sample
 [200s example of the NTSC J DVD](https://mega.nz/file/ynJDTSaT#TiH5JpTOFuuqFISXJm9bbFnLRiSvvzX1q63agfuRP5w)
 
-## Technical Details
+## Technical Details (Video)
 
 - Resolution: 720x480
 - Display Size: 640x480
 - Frame Rate: 29.970030
 - Duration: 01:05:11.9740000
+- No. of Frames:
 
-### MediaInfo
+### MediaInfo (Video)
 
 ```
-Video
 ID                                       : 224 (0xE0)
 Format                                   : MPEG Video
 Format version                           : Version 2
@@ -123,23 +122,22 @@ Forced                                   : No
 # PAL BD
 
 ## Cover
-![PAL BD Cover](https://raw.githubusercontent.com/sttng/Interstella5555/main/%20Interstella%205555%20Cover%20(PAL%20BD).jpg "PAL BD Cover")
+<img src="https://raw.githubusercontent.com/sttng/Interstella5555/main/%20Interstella%205555%20Cover%20(PAL%20BD).jpg" width="600">
 
 ## Sample
 [200s example of the PAL BD](https://mega.nz/file/f3BVnAoa#ROjj9D_lG1A_Tk_jhD4p8kUAcvU1AbDTvyWVSOdGRlw)
 
-## Technical Details
+## Technical Details (Video)
 
-- Resolution: 1920x1080 (looks like an upscale from the PAL DVD or the pan-and-scan 4:3 PAL master)
+- Resolution: 1920x1080 (seems to be an upscale from the PAL DVD or from the pan-and-scan 4:3 PAL master)
 - Display Size: 1920x1080 
 - Frame Rate: 25
 - Duration: 01:05:35.0400000
-- Frames: 98376
+- No. of Frames: 98376
 
-### MediaInfo
+### MediaInfo (Video)
 
 ```
-Video
 ID                                       : 4113 (0x1011)
 Format                                   : AVC
 Format/Info                              : Advanced Video Codec
