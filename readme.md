@@ -5,7 +5,13 @@ One of my favourite bands (Daft Punk) created a Japanese Anime music video match
 I couldn't wait for the collaboration to finish and when Interstella 5555: The 5tory of the 5ecret 5tar 5ystem (インターステラ5555) was finally released in 2003, 
 one of the first things I did was buying a ticket to see in on the big screen in my local movie theater.
 
-As this was many, many years ago, I actually can't remember the quality of the movie in the theater - meaning I actually don't really know if it was a blown-up version with a soft, pixelated look or not.
+When finally the DVD came out in end 2003 in Europe, it was an instant buy for me. But when I put the DVD into my Pioneer Drive in my computer, I couldn't believe what I saw. Interlacing all over the place ! No progressive mode to be found anywhere - clearly the European customers must have been ripped off. 
+
+So my search began and several months later my shipment from Amazon Japan arrived - with the Special Edition. Super excited I started to watch, what I thought to be the good version of that movie. Only again, it was a badly mastered, interlaced version.
+
+Years later, just by accident I saw the Interstella 5555 Blu-ray (BD), in my local record store at discount. and grabbed it again. My hopes where not high this time, and even then whoever produced this was able to disappoint me again. The BD version was an upscale of the DVD version - unbelievable.
+
+As I saw the movie in the theater many, many years ago, I actually can't remember the quality of the movie in the theater - meaning I actually don't really know if it was a blown-up version with a soft, pixelated look or not, because I remember reading or having heared somewhere (sorry no source), that Interstella 5555 was actually only produced in SD version. If my memory serves me correct, Toei Animation was already using digital animation tools at that time and only the drawing sketches where produced whith real pen and paper.
 
 # PAL DVD
 
@@ -13,7 +19,7 @@ As this was many, many years ago, I actually can't remember the quality of the m
 <img src="https://raw.githubusercontent.com/sttng/Interstella5555/main/Interstella%205555%20Cover%20(PAL%20DVD).jpg" width="600">
 
 ## Sample
-[200s example of the PAL DVD](https://mega.nz/file/D7YnVYKS#5wvRYBKI3nhoGV81PQk6zWD5A-Qy5QTgXEh2wTV0BY8)
+[200 sec. sample of the PAL DVD](https://mega.nz/file/D7YnVYKS#5wvRYBKI3nhoGV81PQk6zWD5A-Qy5QTgXEh2wTV0BY8)
 
 ## Technical Details (Video)
 
@@ -69,7 +75,7 @@ Forced                                   : No
 <img src="https://raw.githubusercontent.com/sttng/Interstella5555/main/Interstella%205555%20Cover%20(NTSC%20J%20DVD).jpg" width="600">
 
 ## Sample
-[200s example of the NTSC J DVD](https://mega.nz/file/ynJDTSaT#TiH5JpTOFuuqFISXJm9bbFnLRiSvvzX1q63agfuRP5w)
+[200 sec. sample of the NTSC J DVD](https://mega.nz/file/ynJDTSaT#TiH5JpTOFuuqFISXJm9bbFnLRiSvvzX1q63agfuRP5w)
 
 ## Technical Details (Video)
 
@@ -125,7 +131,7 @@ Forced                                   : No
 <img src="https://raw.githubusercontent.com/sttng/Interstella5555/main/%20Interstella%205555%20Cover%20(PAL%20BD).jpg" width="600">
 
 ## Sample
-[200s example of the PAL BD](https://mega.nz/file/f3BVnAoa#ROjj9D_lG1A_Tk_jhD4p8kUAcvU1AbDTvyWVSOdGRlw)
+[200 sec. sample of the PAL BD](https://mega.nz/file/f3BVnAoa#ROjj9D_lG1A_Tk_jhD4p8kUAcvU1AbDTvyWVSOdGRlw)
 
 ## Technical Details (Video)
 
