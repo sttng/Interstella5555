@@ -124,7 +124,7 @@ Forced                                   : No
 # PAL BD
 
 ## Cover
-<img src="https://raw.githubusercontent.com/sttng/Interstella5555/main/%20Interstella%205555%20Cover%20(PAL%20BD).jpg" width="500">
+<img src="https://raw.githubusercontent.com/sttng/Interstella5555/main/Interstella%205555%20Cover%20(PAL%20BD).jpg" width="500">
 
 ## Sample
 [200 sec. sample of the PAL BD](https://mega.nz/file/f3BVnAoa#ROjj9D_lG1A_Tk_jhD4p8kUAcvU1AbDTvyWVSOdGRlw)
@@ -175,6 +175,19 @@ Color primaries                          : BT.709
 Transfer characteristics                 : BT.709
 Matrix coefficients                      : BT.709
 ```
+
+# NTSC BD
+
+<place holder - I don't have this disk, yet>
+
+## Cover
+<img src="https://raw.githubusercontent.com/sttng/Interstella5555/main/Interstella%205555%20Cover%20(NTSC%20BD).jpg" width="500">
+
+## Technical Details (Video)
+
+- Resolution: 1920x1080 
+- Display Size: 1920x1080 
+- Frame Rate: 23.96
 
 # Findings
 
