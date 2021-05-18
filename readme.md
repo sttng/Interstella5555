@@ -193,7 +193,9 @@ The PAL BD has the most cropping, the NTSC (J) DVD has minor cropping, the PAL D
 
 # Comparison Examples
 
-NTSC (J) DVD, PAL DVD, PAL BD
+Screenshots created using [mpv](https://mpv.io/).
+
+Order: NTSC (J) DVD, PAL DVD, PAL BD
 
 ![NTSC (J) DVD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screen01/NTSC_J-DVD-01.png "NTSC (J) DVD")
 ![PAL DVD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screen01/PAL-DVD-01.png "PAL DVD")
