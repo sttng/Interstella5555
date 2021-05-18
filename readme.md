@@ -1,9 +1,6 @@
 # Intro
 
-When **One More Time** was released in late 2000 and I first saw the music video on MTV (at that time MTV was still showing music videos), I was blown away.
-One of my favourite bands (**Daft Punk**) created a Japanese animation-style music video, matching the visuals of one of my favourite TV shows as a kid - **Queen Millennia (新竹取物語・1000年女王)**.
-I couldn't wait for the collaboration to finish and when **Interstella 5555: The 5tory of the 5ecret 5tar 5ystem (インターステラ5555)** was finally released in 2003, 
-one of the first things I did was buying a ticket to watch it on the big screen in my local movie theater.
+When **One More Time** was released in late 2000 and I first saw the music video on MTV (at that time MTV was still showing music videos), I was blown away. One of my favourite bands (**Daft Punk**) created a Japanese animation-style music video, matching the visuals of one of my favourite TV shows as a kid - **Queen Millennia (新竹取物語・1000年女王)**. I couldn't wait for the collaboration to finish and when **Interstella 5555: The 5tory of the 5ecret 5tar 5ystem (インターステラ5555)** was finally released in 2003, one of the first things I did was buying a ticket to watch it on the big screen in my local movie theater.
 
 When the DVD was released in end 2003 in Europe, of course it was an instant buy for me. However, when I put the DVD into my Pioneer Drive in my computer, I couldn't believe what I saw: Interlacing all over the place ! No progressive mode to be found anywhere - clearly the European customers must have been ripped off. 
 
