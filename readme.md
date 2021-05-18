@@ -178,12 +178,13 @@ Matrix coefficients                      : BT.709
 
 # NTSC BD
 
-<place holder - I don't have this disk, yet>
+<place holder - I don't have this disk>
 
 ## Cover
 <img src="https://raw.githubusercontent.com/sttng/Interstella5555/main/Interstella%205555%20Cover%20(NTSC%20BD).jpg" width="500">
 
 ## Technical Details (Video)
+<place holder - I don't have this disk>
 
 - Resolution: 1920x1080 
 - Display Size: 1920x1080 
