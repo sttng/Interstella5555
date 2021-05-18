@@ -7,11 +7,13 @@ one of the first things I did was buying a ticket to see in on the big screen in
 
 When finally the DVD came out in end 2003 in Europe, it was an instant buy for me. But when I put the DVD into my Pioneer Drive in my computer, I couldn't believe what I saw. Interlacing all over the place ! No progressive mode to be found anywhere - clearly the European customers must have been ripped off. 
 
-So my search began and several months later my shipment from Amazon Japan arrived - with the Special Edition. Super excited I started to watch, what I thought to be the good version of that movie. Only again, it was a badly mastered, interlaced version.
+So my search began and several months later my shipment from Amazon Japan arrived - with the Special Edition. Super excited I started to watch, what I thought to be the good version of that movie (clearly the Japanese special edition could only be better then the euro version). Only again, it was a badly mastered, interlaced version.
 
-Years later, just by accident I saw the Interstella 5555 Blu-ray (BD), in my local record store at discount. and grabbed it again. My hopes where not high this time, and even then whoever produced this was able to disappoint me again. The BD version was an upscale of the DVD version - unbelievable.
+Years later, just by accident I saw the Interstella 5555 Blu-ray (BD), in my local record store at discount, and grabbed it again. My hopes where not high this time, and even then whoever produced this was able to disappoint me again. The BD version was an upscale of the DVD version - unbelievable.
 
-As I saw the movie in the theater many, many years ago, I actually can't remember the quality of the movie in the theater - meaning I actually don't really know if it was a blown-up version with a soft, pixelated look or not, because I remember reading or having heared somewhere (sorry no source), that Interstella 5555 was actually only produced in SD version. If my memory serves me correct, Toei Animation was already using digital animation tools at that time and only the drawing sketches where produced whith real pen and paper.
+As I saw the movie in the theater many, many years ago, I actually can't remember the quality of the movie in the theater - meaning I actually don't really know if it was a blown-up version with a soft, pixelated look or not, because I remember reading or having heared somewhere (sorry no source), that Interstella 5555 was actually only produced in a SD format. If my memory serves me correct, Toei Animation was already using digital animation tools at that time and only the drawing sketches where produced whith real pen and paper, while the animations where drawn in SD resolution.
+
+So below find a comparison of the disks I own, and also a verdict for which is the best (of the worst).
 
 # PAL DVD
 
