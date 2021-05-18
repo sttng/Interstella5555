@@ -7,7 +7,7 @@ one of the first things I did was buying a ticket to see in on the big screen in
 
 When the DVD was released in end 2003 in Europe, of course it was an instant buy for me. But when I put the DVD into my Pioneer Drive in my computer, I couldn't believe what I saw: Interlacing all over the place ! No progressive mode to be found anywhere - clearly the European customers must have been ripped off. 
 
-So my search began and several months later a shipment from Amazon Japan arrived - with the Japanese DVD Special Edition. Super excited I started to watch, what I thought had tp be the good version of that movie (clearly the Japanese special edition could only be better then the euro version). Only again, this was a badly mastered, interlaced version. Again a disappointment.
+So my search began and several months later a shipment from Amazon Japan arrived - with the Japanese DVD Special Edition. Super excited I started to watch, what I thought had to be a good version of that movie (clearly the Japanese special edition could only be better then the euro version - or so I thought). Only again, this was a badly mastered, interlaced version. Again a disappointment.
 
 Years later, just by accident I saw the Interstella 5555 Blu-ray (BD), in my local record store at discount, and grabbed this version. My hopes where not high this time, and even then, whoever produced this was able to disappoint me again. The PAL BD version looked like an upscale of the PAL DVD version - unbelievable.
 
