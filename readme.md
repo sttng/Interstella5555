@@ -79,7 +79,7 @@ Forced                                   : No
 ## Technical Details (Video)
 
 - Resolution: 720x480
-- Display Size: 640x480
+- Display Size: 640x480 (720x540)
 - Frame Rate: 29.970030
 - Duration: 01:05:11.9740000
 - No. of Frames:
