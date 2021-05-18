@@ -190,6 +190,7 @@ Matrix coefficients                      : BT.709
 - The NTSC (J) DVD seems to be produced using a 3:2 pull down Telecine conversion from 24 frames/s to ~29.97 frame/s.
 - No version is using progessive frames unfortunately.
 - The PAL (DVD) version seems to be the "best" version as it retains the most image information - due to having no or the smallest cropping and also having approx 20% (or 96 additional lines) higher vertical resolution then the NTSC (J) DVD.
+- The PAL (DVD) has a slightly higher *Bits/(Pixel*Frame)* valuec compared to the NTSC (J) DVD, meaning that it has less compression and in theory a picture more true to the original. In reality however the difference is so small and neglectable that it would be impossible to spot a difference
 
 ## Cropping Examples
 ![Cropping Comparison](https://raw.githubusercontent.com/sttng/Interstella5555/main/Cropping_Examples.jpg "Cropping Comparison")
