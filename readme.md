@@ -18,7 +18,7 @@ So below find a comparison of the disks I own, and also a verdict for which is t
 # PAL DVD
 
 ## Cover
-<img src="https://raw.githubusercontent.com/sttng/Interstella5555/main/Interstella%205555%20Cover%20(PAL%20DVD).jpg" width="600">
+<img src="https://raw.githubusercontent.com/sttng/Interstella5555/main/Interstella%205555%20Cover%20(PAL%20DVD).jpg" width="500">
 
 ## Sample
 [200 sec. sample of the PAL DVD](https://mega.nz/file/D7YnVYKS#5wvRYBKI3nhoGV81PQk6zWD5A-Qy5QTgXEh2wTV0BY8)
@@ -62,9 +62,6 @@ Scan type                                : Interlaced
 Scan order                               : Top Field First
 Compression mode                         : Lossy
 Bits/(Pixel*Frame)                       : 0.676
-Time code of first frame                 : 10:00:00:00
-Time code source                         : Group of pictures header
-GOP, Open/Closed                         : Open
 Stream size                              : 3.19 GiB
 Language                                 : English
 Default                                  : No
@@ -74,7 +71,7 @@ Forced                                   : No
 # NTSC (J) DVD
 
 ## Cover
-<img src="https://raw.githubusercontent.com/sttng/Interstella5555/main/Interstella%205555%20Cover%20(NTSC%20J%20DVD).jpg" width="600">
+<img src="https://raw.githubusercontent.com/sttng/Interstella5555/main/Interstella%205555%20Cover%20(NTSC%20J%20DVD).jpg" width="500">
 
 ## Sample
 [200 sec. sample of the NTSC J DVD](https://mega.nz/file/ynJDTSaT#TiH5JpTOFuuqFISXJm9bbFnLRiSvvzX1q63agfuRP5w)
@@ -118,9 +115,6 @@ Scan type                                : Interlaced
 Scan order                               : Top Field First
 Compression mode                         : Lossy
 Bits/(Pixel*Frame)                       : 0.649
-Time code of first frame                 : 10:00:00;00
-Time code source                         : Group of pictures header
-GOP, Open/Closed                         : Open
 Stream size                              : 3.06 GiB
 Language                                 : English
 Default                                  : No
@@ -130,7 +124,7 @@ Forced                                   : No
 # PAL BD
 
 ## Cover
-<img src="https://raw.githubusercontent.com/sttng/Interstella5555/main/%20Interstella%205555%20Cover%20(PAL%20BD).jpg" width="600">
+<img src="https://raw.githubusercontent.com/sttng/Interstella5555/main/%20Interstella%205555%20Cover%20(PAL%20BD).jpg" width="500">
 
 ## Sample
 [200 sec. sample of the PAL BD](https://mega.nz/file/f3BVnAoa#ROjj9D_lG1A_Tk_jhD4p8kUAcvU1AbDTvyWVSOdGRlw)
