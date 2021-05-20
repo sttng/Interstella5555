@@ -200,6 +200,7 @@ Matrix coefficients                      : BT.709
 - Resolution: 720×480
 - Display Size: 720x540
 - Frame Rate: 29.970
+- Duration: 01:07:57.941000
 - No. of Frames: 122173
 
 ```
