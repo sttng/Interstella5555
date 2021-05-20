@@ -304,8 +304,8 @@ PAL DVD Timecode: approx. 24:05
 
 ![NTSC (J) DVD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/NTSC_J-DVD-06.png "NTSC (J) DVD") Frame: 59758
 ![PAL DVD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/PAL-DVD-06.png "PAL DVD") Frame: 49848
-![PAL BD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/PAL-BD-06.png "PAL BD") Frame: 50334
 ![EUR UMD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/EUR-UMD-06.png "EUR UMD") Frame: 62329
+![PAL BD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/PAL-BD-06.png "PAL BD") Frame: 50334
 
 PAL DVD Timecode: approx. 33:13 
 
