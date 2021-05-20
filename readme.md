@@ -264,40 +264,40 @@ Screenshots were created using [VirtualDub2](http://virtualdub2.com/). The setti
 - 1:1 pixel (Square)
 - copy-pasted to Paint.Net and saved as 24bit PNG
 
-Order: NTSC (J) DVD, PAL DVD, PAL BD, EUR UMD
+Order: NTSC (J) DVD, PAL DVD, EUR UMD, PAL BD
 
 ![NTSC (J) DVD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/NTSC_J-DVD-01.png "NTSC (J) DVD") Frame: 4804
 ![PAL DVD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/PAL-DVD-01.png "PAL DVD") Frame: 4007
-![PAL BD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/PAL-BD-01.png "PAL BD") Frame: 4497
 ![EUR UMD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/EUR-UMD-01.png "EUR UMD") Frame: 5033
+![PAL BD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/PAL-BD-01.png "PAL BD") Frame: 4497
 
 PAL DVD Timecode: approx. 02:40 (its the last frame before switching to the drums)
 
 ![NTSC (J) DVD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/NTSC_J-DVD-02.png "NTSC (J) DVD") Frame: 4810
 ![PAL DVD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/PAL-DVD-02.png "PAL DVD") Frame: 4012
-![PAL BD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/PAL-BD-02.png "PAL BD") Frame: 4502
 ![EUR UMD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/EUR-UMD-02.png "EUR UMD") Frame: 5039
+![PAL BD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/PAL-BD-02.png "PAL BD") Frame: 4502
 
 PAL DVD Timecode: approx. 02:40 (its the 5th frame after switching to the drums)
 
 ![NTSC (J) DVD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/NTSC_J-DVD-03.png "NTSC (J) DVD") Frame: 4964
 ![PAL DVD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/PAL-DVD-03.png "PAL DVD") Frame: 4141
-![PAL BD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/PAL-BD-03.png "PAL BD") Frame: 4631
 ![EUR UMD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/EUR-UMD-03.png "EUR UMD") Frame: 5200
+![PAL BD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/PAL-BD-03.png "PAL BD") Frame: 4631
 
 PAL DVD Timecode: approx. 02:45 (its the 1st frame after the dancing crowd)
 
 ![NTSC (J) DVD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/NTSC_J-DVD-04.png "NTSC (J) DVD") Frame: 5127
 ![PAL DVD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/PAL-DVD-04.png "PAL DVD") Frame: 4277
-![PAL BD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/PAL-BD-04.png "PAL BD") Frame: 4767
 ![EUR UMD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/EUR-UMD-04.png "EUR UMD") Frame: 5371
+![PAL BD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/PAL-BD-04.png "PAL BD") Frame: 4767
 
 PAL DVD Timecode: approx. 02:51 (its the 3rd frame of Baryl the drummer)
 
 ![NTSC (J) DVD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/NTSC_J-DVD-05.png "NTSC (J) DVD") Frame: 43329
 ![PAL DVD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/PAL-DVD-05.png "PAL DVD") Frame: 36143
-![PAL BD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/PAL-BD-05.png "PAL BD") Frame: 36632
 ![EUR UMD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/EUR-UMD-05.png "EUR UMD") Frame: 45204
+![PAL BD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/PAL-BD-05.png "PAL BD") Frame: 36632
 
 PAL DVD Timecode: approx. 24:05
 
