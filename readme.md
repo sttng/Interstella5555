@@ -192,9 +192,13 @@ Matrix coefficients                      : BT.709
 ## Cover
 <img src="https://raw.githubusercontent.com/sttng/Interstella5555/main/Interstella%205555%20Cover%20(PAL%20UMD).jpg" width="500">
 
+## Sample
+[200 sec. sample of the EUR UMD](https://mega.nz/file/vyxQ1Z5Z#0PbSZ5f6TtzzruWhiLZjIH-uLvZXaNo5RMRKCP5CIGY)
+
 ## Technical Details (Video)
 
 - Resolution: 720×480
+- Display Size: 720x540
 - Frame Rate: 29.970
 - No. of Frames: 122173
 
