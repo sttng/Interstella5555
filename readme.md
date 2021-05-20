@@ -251,7 +251,7 @@ Color range                              : Full
 ## Cropping Examples
 ![Cropping Comparison](https://raw.githubusercontent.com/sttng/Interstella5555/main/Cropping_Examples.jpg "Cropping Comparison")
 
-The PAL BD has the most cropping, the NTSC (J) DVD has minor cropping, the PAL DVD has the least or no cropping and sometimes has 3-4 pixels of black bars at the top and bottom, which indicates the full movie frame was scanned with slight savety margin (no cropping).
+The EUR UMD and PAL BD have the biggest cropping, the NTSC (J) DVD has minor cropping, the PAL DVD has the least or no cropping and sometimes has 3-4 pixels of black bars at the top and bottom, which indicates the full movie frame was scanned with slight savety margin (no cropping).
 
 # Other points
 
