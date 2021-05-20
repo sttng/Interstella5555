@@ -258,11 +258,12 @@ The EUR UMD and PAL BD have the biggest cropping, the NTSC (J) DVD has minor cro
 
 # Other points
 
-- According to [IMDB](https://www.imdb.com/title/tt0368667/technical?ref_=ttfc_ql_6) the runtime of the cinematric version is 68min, while all the disk versions have runtime of 65min, except the EUR UMD which has 67min runtime. Other cinema screenings list a runtime of 67min [Festival International des Cinémas d'Asie de Vesoul](https://www.cinemas-asie.com/en/archives-en/item/3671-interstella-5555.html), [Viennale](https://www.viennale.at/de/film/daft-punk-leiji-matsumotos-interstella-5555), [Bergen International Film Festival](http://arkiv.biff.no/2003/index.php?Eng=Ja&ID=FilmEng&counter=11)
+- According to [IMDB](https://www.imdb.com/title/tt0368667/technical?ref_=ttfc_ql_6) the runtime of the cinema version is 68min, while all the disk versions have runtime of 65min, except the EUR UMD which has 68min runtime. Other cinema screenings list a runtime of 67min [Festival International des Cinémas d'Asie de Vesoul](https://www.cinemas-asie.com/en/archives-en/item/3671-interstella-5555.html), [Viennale](https://www.viennale.at/de/film/daft-punk-leiji-matsumotos-interstella-5555), [Bergen International Film Festival](http://arkiv.biff.no/2003/index.php?Eng=Ja&ID=FilmEng&counter=11)
 
 # Comparison Examples
 
-Screenshots were created using [VirtualDub2](http://virtualdub2.com/). The settings below were used to get examples from the source data streams, without introducing scaling or deinterlacing post-processing from the player software. A 1:1 pixel aspect ratio means that the screenshots of the PAL and NTSC DVDs are shown as they are stored but not shown as they should according to intended aspect ratio:
+Screenshots were created using [VirtualDub2](http://virtualdub2.com/). The settings as described below were used to get examples from the source data streams, without introducing scaling, deinterlacing or other post-processing from the player software. A 1:1 pixel aspect ratio means that the screenshots of the PAL DVD, NTSC DVD, and the UMD are shown as they are stored but not shown as they should according to intended aspect ratio:
+
 - Zoom 100%
 - 1:1 pixel (Square)
 - copy-pasted to Paint.Net and saved as 24bit PNG
