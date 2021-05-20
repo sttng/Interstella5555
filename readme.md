@@ -187,6 +187,17 @@ Matrix coefficients                      : BT.709
 - Display Size: 1920x1080 
 - Frame Rate: 23.96
 
+# PAL? UMD
+
+<place holder - I don't have this disk>
+
+## Cover
+<img src="https://raw.githubusercontent.com/sttng/Interstella5555/main/Interstella%205555%20Cover%20(PAL%20UMD).jpg" width="500">
+
+## Technical Details (Video)
+<place holder - I don't have this disk>
+
+
 # Findings
 
 - Based on the interlacing comparison the PAL BD seems to be an upscale from the PAL DVD or of a pan-and-scan 4:3 PAL master with simple frame blending as "deinterlacing".
