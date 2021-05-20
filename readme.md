@@ -198,6 +198,39 @@ Matrix coefficients                      : BT.709
 - Frame Rate: 29.970
 - No. of Frames: 122173
 
+```
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L3
+Format settings                          : CABAC / 2 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 2 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1 h 7 min
+Bit rate mode                            : Variable
+Bit rate                                 : 2 003 kb/s
+Maximum bit rate                         : 8 000 kb/s
+Width                                    : 720 pixels
+Height                                   : 480 pixels
+Display aspect ratio                     : 4:3
+Frame rate mode                          : Variable
+Frame rate                               : 59.940 (60000/1001) FPS
+Original frame rate                      : 29.970 (30000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Interlaced
+Scan type, store method                  : Separated fields
+Scan order                               : Bottom Field First
+Bits/(Pixel*Frame)                       : 0.097
+Stream size                              : 974 MiB
+Default                                  : Yes
+Forced                                   : No
+Color range                              : Full
+```
+
 # Findings
 
 - Based on the interlacing comparison the PAL BD seems to be an upscale from the PAL DVD or of a pan-and-scan 4:3 PAL master with simple frame blending as "deinterlacing".
@@ -225,7 +258,7 @@ Screenshots were created using [VirtualDub2](http://virtualdub2.com/). The setti
 - 1:1 pixel (Square)
 - copy-pasted to Paint.Net and saved as 24bit PNG
 
-Order: NTSC (J) DVD, PAL DVD, PAL BD
+Order: NTSC (J) DVD, PAL DVD, PAL BD, EUR UMD
 
 ![NTSC (J) DVD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/NTSC_J-DVD-01.png "NTSC (J) DVD") Frame: 4804
 ![PAL DVD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/PAL-DVD-01.png "PAL DVD") Frame: 4007
