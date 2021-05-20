@@ -197,6 +197,7 @@ Matrix coefficients                      : BT.709
 ## Technical Details (Video)
 <place holder - I don't have this disk>
 
+- Resolution: 720×480 ??
 
 # Findings
 
