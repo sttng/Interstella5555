@@ -195,6 +195,7 @@ Matrix coefficients                      : BT.709
 ## Technical Details (Video)
 
 - Resolution: 720×480
+- Frame Rate: 29.970
 - No. of Frames: 122173
 
 # Findings
