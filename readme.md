@@ -190,7 +190,7 @@ Matrix coefficients                      : BT.709
 # EUR UMD
 
 ## Cover
-<img src="https://raw.githubusercontent.com/sttng/Interstella5555/main/Interstella%205555%20Cover%20(PAL%20UMD).jpg" width="500">
+<img src="https://raw.githubusercontent.com/sttng/Interstella5555/main/Interstella%205555%20Cover%20(EUR%20UMD).jpg" width="500">
 
 ## Sample
 [200 sec. sample of the EUR UMD](https://mega.nz/file/vyxQ1Z5Z#0PbSZ5f6TtzzruWhiLZjIH-uLvZXaNo5RMRKCP5CIGY)
