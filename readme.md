@@ -261,7 +261,11 @@ The EUR UMD and PAL BD have the biggest cropping, the NTSC (J) DVD has minor cro
 The EUR UMD has the worst combination of blending, ghosting and interlacing.
 It seems the PAL BD version (which includes already frame blending) was used as a master, but the frame-rate was upconverted from 25fps to 29.97fps to include further interlacing.
 
-![EUR UMD Blend Ghosting](https://raw.githubusercontent.com/sttng/Interstella5555/main/EUR_UMD_ani.gif "EUR UMD Blend Ghosting")
+![EUR UMD Blend Ghosting](https://raw.githubusercontent.com/sttng/Interstella5555/main/EUR_UMD_ani.png "EUR UMD Blend Ghosting")
+
+And see here the orignal frames:
+
+![Original Animation](https://raw.githubusercontent.com/sttng/Interstella5555/main/original_ani.png "Original Animation")
 
 # Other points
 
