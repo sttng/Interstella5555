@@ -194,8 +194,9 @@ Matrix coefficients                      : BT.709
 - The NTSC (J) DVD is cropped at the top and bottom compared to the PAL DVD.
 - The NTSC (J) DVD seems to be produced using a 3:2 pull down Telecine conversion from 24 frames/s to ~29.97 frame/s.
 - No version is using progessive frames unfortunately.
-- The PAL (DVD) version seems to be the "best" version as it retains the most image information - due to having no or the smallest cropping and also having approx 20% (or 96 additional lines) higher vertical resolution then the NTSC (J) DVD.
-- The PAL (DVD) has a slightly higher *Bits/(Pixel x Frame)* valuec compared to the NTSC (J) DVD, meaning that it has less compression and in theory a picture more true to the original. In reality however the difference is so small and neglectable that it would be impossible to spot a difference
+- The PAL DVD version seems to be the "best" version as it retains the most image information - due to having no or the smallest cropping and also having approx 20% (or 96 additional lines) higher vertical resolution then the NTSC (J) DVD.
+- The PAL DVD has a slightly higher *Bits/(Pixel x Frame)* valuec compared to the NTSC (J) DVD, meaning that it has less compression and in theory a picture more true to the original. In reality however the difference is so small and neglectable that it would be impossible to spot a difference.
+- The PAL BD seems to have a slightly brighter and warmer color grading compared to both DVD versions.
 
 ## Cropping Examples
 ![Cropping Comparison](https://raw.githubusercontent.com/sttng/Interstella5555/main/Cropping_Examples.jpg "Cropping Comparison")
@@ -204,7 +205,7 @@ The PAL BD has the most cropping, the NTSC (J) DVD has minor cropping, the PAL D
 
 # Comparison Examples
 
-Screenshots created using [VirtualDub2](http://virtualdub2.com/) with the following settings to ensure getting examples directly from the source data streams, without scaling or deinterlacing post-processing from the player software. A 1:1 pixel aspect ratio means that the screenshots of the PAL and NTSC are shown as they are stored but not shown as they should :
+Screenshots were created using [VirtualDub2](http://virtualdub2.com/). The settings below were used to get examples from the source data streams, without introducing scaling or deinterlacing post-processing from the player software. A 1:1 pixel aspect ratio means that the screenshots of the PAL and NTSC DVDs are shown as they are stored but not shown as they are should:
 - Zoom 100%
 - 1:1 pixel (Square)
 - copy-pasted to Paint.Net and saved as 24bit PNG
