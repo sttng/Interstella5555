@@ -187,7 +187,7 @@ Matrix coefficients                      : BT.709
 - Display Size: 1920x1080 
 - Frame Rate: 23.96
 
-# EURO UMD
+# EUR UMD
 
 ## Cover
 <img src="https://raw.githubusercontent.com/sttng/Interstella5555/main/Interstella%205555%20Cover%20(PAL%20UMD).jpg" width="500">
