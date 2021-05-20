@@ -204,10 +204,10 @@ The PAL BD has the most cropping, the NTSC (J) DVD has minor cropping, the PAL D
 
 # Comparison Examples
 
-Screenshots created using [VirtualDub2](http://virtualdub2.com/) with the following settings:
+Screenshots created using [VirtualDub2](http://virtualdub2.com/) with the following settings to ensure getting examples directly from the source data streams, without scaling or deinterlacing post-processing from the player software. A 1:1 pixel aspect ratio means that the screenshots of the PAL and NTSC are shown as they are stored but not shown as they should :
 - Zoom 100%
 - 1:1 pixel (Square)
-- 24bit PNG
+- copy-pasted to Paint.Net and saved as 24bit PNG
 
 Order: NTSC (J) DVD, PAL DVD, PAL BD
 
