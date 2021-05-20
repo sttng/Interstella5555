@@ -235,7 +235,7 @@ PAL DVD Timecode: approx. 02:45 (its the 1st frame after the dancing crowd)
 
 PAL DVD Timecode: approx. 02:51 (its the 3rd frame of Baryl the drummer)
 
-![NTSC (J) DVD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/NTSC_J-DVD-05.png "NTSC (J) DVD") Frame: 43330
+![NTSC (J) DVD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/NTSC_J-DVD-05.png "NTSC (J) DVD") Frame: 43329
 ![PAL DVD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/PAL-DVD-05.png "PAL DVD") Frame: 36143
 ![PAL BD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/PAL-BD-05.png "PAL BD") Frame: 36632
 
