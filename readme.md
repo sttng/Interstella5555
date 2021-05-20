@@ -203,6 +203,10 @@ Matrix coefficients                      : BT.709
 
 The PAL BD has the most cropping, the NTSC (J) DVD has minor cropping, the PAL DVD has the least or no cropping and sometimes has 3-4 pixels of black bars at the top and bottom, which indicates the full movie frame was scanned with slight savety margin (no cropping).
 
+# Other points
+
+- According to [IMDB](https://www.imdb.com/title/tt0368667/technical?ref_=ttfc_ql_6) the runtime of the cinematric version is 68min, while all the disk versions have runtime of 65min. Other cinema screenings list a runtime of 67min [Festival International des Cinémas d'Asie de Vesoul](https://www.cinemas-asie.com/en/archives-en/item/3671-interstella-5555.html), [Viennale](https://www.viennale.at/de/film/daft-punk-leiji-matsumotos-interstella-5555)
+
 # Comparison Examples
 
 Screenshots were created using [VirtualDub2](http://virtualdub2.com/). The settings below were used to get examples from the source data streams, without introducing scaling or deinterlacing post-processing from the player software. A 1:1 pixel aspect ratio means that the screenshots of the PAL and NTSC DVDs are shown as they are stored but not shown as they should according to intended aspect ratio:
@@ -248,6 +252,6 @@ PAL DVD Timecode: approx. 24:05
 
 PAL DVD Timecode: approx. 33:13 
 
-# Discussion
+# Further Information
 
 - https://forum.blu-ray.com/showthread.php?t=180760
