@@ -249,7 +249,7 @@ Color range                              : Full
 - The UMD (PSP) version and the PAL BD version are the only ones having the subtitles in the beginning burnt into the video, making me believe these versions were mastered at the same time.
 - The PAL DVD version seems to be the "best" version as it retains the most image information - due to having no or the smallest cropping and also having approx 20% (or 96 additional lines) higher vertical resolution then the NTSC (J) DVD.
 - The PAL DVD has a slightly higher *Bits/(Pixel x Frame)* value compared to the NTSC (J) DVD, meaning that it has less compression and in theory a picture more true to the original. In reality however the difference is so small and neglectable that it would be impossible to spot a difference.
-- The PAL BD seems to have a slightly brighter and warmer color grading compared to both DVD- and the UMD versions.
+- The PAL BD and the UMD seem to have a slightly brighter and warmer color grading compared to DVD versions.
 
 ## Cropping Examples
 ![Cropping Comparison](https://raw.githubusercontent.com/sttng/Interstella5555/main/Cropping_Examples.jpg "Cropping Comparison")
