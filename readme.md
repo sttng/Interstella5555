@@ -256,6 +256,13 @@ Color range                              : Full
 
 The EUR UMD and PAL BD have the biggest cropping, the NTSC (J) DVD has minor cropping, the PAL DVD has the least or no cropping and sometimes has 3-4 pixels of black bars at the top and bottom, which indicates the full movie frame was scanned with slight savety margin (no cropping).
 
+## Frame blending, ghosting, interlacing
+
+The EUR UMD has the worst combination of blending, ghosting and interlacing.
+It seems the PAL BD version (which includes already frame blending) was used as a master, but the frame-rate was upconverted from 25fps to 29.97fps to include further interlacing.
+
+![EUR UMD Blend Ghosting](https://raw.githubusercontent.com/sttng/Interstella5555/main/EUR_UMD_ani.gif "EUR UMD Blend Ghosting")
+
 # Other points
 
 - According to [IMDB](https://www.imdb.com/title/tt0368667/technical?ref_=ttfc_ql_6) the runtime of the cinema version is 68min, while all the disk versions have runtime of 65min, except the EUR UMD which has 68min runtime. Other cinema screenings list a runtime of 67min [Festival International des Cinémas d'Asie de Vesoul](https://www.cinemas-asie.com/en/archives-en/item/3671-interstella-5555.html), [Viennale](https://www.viennale.at/de/film/daft-punk-leiji-matsumotos-interstella-5555), [Bergen International Film Festival](http://arkiv.biff.no/2003/index.php?Eng=Ja&ID=FilmEng&counter=11)
