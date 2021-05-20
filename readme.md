@@ -208,7 +208,7 @@ Screenshots created using [mpv](https://mpv.io/).
 
 Order: NTSC (J) DVD, PAL DVD, PAL BD
 
-![NTSC (J) DVD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screen01/NTSC_J-DVD-01.png "NTSC (J) DVD")
+![NTSC (J) DVD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screen01/NTSC_J-DVD-01.png "NTSC (J) DVD") Frame: 4804
 ![PAL DVD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screen01/PAL-DVD-01.png "PAL DVD")
 ![PAL BD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screen01/PAL-BD-01.png "PAL BD")
 PAL DVD Timecode: approx. 02:40 (its the last frame before switching to the drums)
