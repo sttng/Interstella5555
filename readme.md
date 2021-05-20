@@ -203,6 +203,8 @@ Matrix coefficients                      : BT.709
 - Duration: 01:07:57.941000
 - No. of Frames: 122173
 
+### MediaInfo (Video)
+
 ```
 Video
 ID                                       : 1
