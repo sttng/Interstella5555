@@ -213,7 +213,7 @@ Order: NTSC (J) DVD, PAL DVD, PAL BD
 ![PAL BD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screen01/PAL-BD-01.png "PAL BD")
 PAL DVD Timecode: approx. 02:40 (its the last frame before switching to the drums)
 
-![NTSC (J) DVD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screen02/NTSC_J-DVD-02.png "NTSC (J) DVD")
+![NTSC (J) DVD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screen02/NTSC_J-DVD-02.png "NTSC (J) DVD") Frame: 4810
 ![PAL DVD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screen02/PAL-DVD-02.png "PAL DVD")
 ![PAL BD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screen02/PAL-BD-02.png "PAL BD")
 PAL DVD Timecode: approx. 02:40 (its the 5th frame after switching to the drums)
