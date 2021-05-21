@@ -267,6 +267,8 @@ And see here the orignal frames:
 
 ![Original Animation](https://raw.githubusercontent.com/sttng/Interstella5555/main/original_ani.png "Original Animation")
 
+Oh - by the way, look at Stellas hair, they forgot to cut out the transparency for her curleys on one frame 😊.
+
 ## Musician, Magician
 
 The DVDs have soft subtitles and a different framing in the intro compared to the BD and UMD.
