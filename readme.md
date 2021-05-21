@@ -269,7 +269,9 @@ And see here the orignal frames:
 
 ## Musician, Magician
 
-The DVDs have soft subtitles and a different framing in the intro compared to the BD and UMD
+The DVDs have soft subtitles and a different framing in the intro compared to the BD and UMD.
+
+![Musician, Magician](https://github.com/sttng/Interstella5555/blob/main/Musician_Magician.jpg "Musician, Magician")
 
 # Other points
 
