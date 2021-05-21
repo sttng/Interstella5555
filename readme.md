@@ -269,6 +269,17 @@ And see here the original frames:
 
 Oh - by the way, also have a look at Stellas hair, they forgot to cut out the transparency for her curleys on one frame 😊.
 
+## Infra Frame movement
+
+For certain sequences its very hard to recover the original full frames - in the example below the middle frame of the PAL sequence contains information which can not algorthimically recovered. You would need to hand-redraw. The NTSC version unfortunatly also doesn't contain information which can be "salvaged".
+
+![NTSC J 4161-4164](https://raw.githubusercontent.com/sttng/Interstella5555/main/NTSC_J_4161-4164.png "NTSC J 4161-4164")
+
+![PAL J 3471-3473](https://raw.githubusercontent.com/sttng/Interstella5555/main/PAL_3471-3473.png "PAL J 3471-3473")
+
+![Corrected J 3471-3473](https://raw.githubusercontent.com/sttng/Interstella5555/main/Corrected_3471-3473.png "Corrected J 3471-3473")
+
+
 ## Musician, Magician
 
 The DVDs have soft subtitles in the intro compared to the BD and UMD, which have these 'burnt in'.
