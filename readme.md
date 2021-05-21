@@ -263,11 +263,11 @@ It seems the PAL BD version (which includes already frame blending) was used as 
 
 ![EUR UMD Blend Ghosting](https://raw.githubusercontent.com/sttng/Interstella5555/main/EUR_UMD_ani.png "EUR UMD Blend Ghosting")
 
-And see here the orignal frames:
+And see here the original frames:
 
 ![Original Animation](https://raw.githubusercontent.com/sttng/Interstella5555/main/original_ani.png "Original Animation")
 
-Oh - by the way, look at Stellas hair, they forgot to cut out the transparency for her curleys on one frame 😊.
+Oh - by the way, aslo have a look at Stellas hair, they forgot to cut out the transparency for her curleys on one frame 😊.
 
 ## Musician, Magician
 
