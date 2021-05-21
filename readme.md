@@ -279,6 +279,11 @@ For certain sequences its very hard to recover the original full frames - in the
 
 ![Corrected J 3471-3473](https://raw.githubusercontent.com/sttng/Interstella5555/main/Corrected_3471-3473.png "Corrected J 3471-3473")
 
+In other examples such as below some information most likely is lost forever - in that case the middle frame:
+
+![NTSC J 4170-4172](https://raw.githubusercontent.com/sttng/Interstella5555/main/NTSC_J_4170-4172.png "NTSC J 4161-4164")
+
+![PAL 3478-3480](https://raw.githubusercontent.com/sttng/Interstella5555/main/PAL_3478-3480.png "PAL 3478-3480")
 
 ## Musician, Magician
 
