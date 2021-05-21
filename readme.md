@@ -267,6 +267,10 @@ And see here the orignal frames:
 
 ![Original Animation](https://raw.githubusercontent.com/sttng/Interstella5555/main/original_ani.png "Original Animation")
 
+## Musician, Magician
+
+The DVDs have soft subtitles and a different framing in the intro compared to the BD and UMD
+
 # Other points
 
 - According to [IMDB](https://www.imdb.com/title/tt0368667/technical?ref_=ttfc_ql_6) the runtime of the cinema version is 68min, while all the disk versions have runtime of 65min, except the EUR UMD which has 68min runtime. Other cinema screenings list a runtime of 67min [Festival International des Cinémas d'Asie de Vesoul](https://www.cinemas-asie.com/en/archives-en/item/3671-interstella-5555.html), [Viennale](https://www.viennale.at/de/film/daft-punk-leiji-matsumotos-interstella-5555), [Bergen International Film Festival](http://arkiv.biff.no/2003/index.php?Eng=Ja&ID=FilmEng&counter=11)
