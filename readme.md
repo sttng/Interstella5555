@@ -271,7 +271,7 @@ Oh - by the way, look at Stellas hair, they forgot to cut out the transparency f
 
 ## Musician, Magician
 
-The DVDs have soft subtitles and a different framing in the intro compared to the BD and UMD.
+The DVDs have soft subtitles in the intro compared to the BD and UMD, which have these 'burnt in'.
 
 ![Musician, Magician](https://github.com/sttng/Interstella5555/blob/main/Musician_Magician.jpg "Musician, Magician")
 
