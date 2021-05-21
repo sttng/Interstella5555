@@ -267,7 +267,7 @@ And see here the original frames:
 
 ![Original Animation](https://raw.githubusercontent.com/sttng/Interstella5555/main/original_ani.png "Original Animation")
 
-Oh - by the way, aslo have a look at Stellas hair, they forgot to cut out the transparency for her curleys on one frame 😊.
+Oh - by the way, also have a look at Stellas hair, they forgot to cut out the transparency for her curleys on one frame 😊.
 
 ## Musician, Magician
 
