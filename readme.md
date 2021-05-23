@@ -263,7 +263,7 @@ It seems the PAL BD version (which includes already frame blending) was used as 
 
 ![EUR UMD Blend Ghosting](https://raw.githubusercontent.com/sttng/Interstella5555/main/EUR_UMD_ani.webp "EUR UMD Blend Ghosting")
 
-And see here the original frames:
+And see here the original frames (grabbed from the PAL DVD):
 
 ![Original Animation](https://raw.githubusercontent.com/sttng/Interstella5555/main/original_ani.webp "Original Animation")
 
@@ -273,17 +273,17 @@ Oh - by the way, also have a look at Stellas hair, they forgot to cut out the tr
 
 For certain sequences its very hard to recover the original full frames - in the example below the middle frame of the PAL sequence contains information which can not algorthimically recovered. You would need to hand-redraw. The NTSC version unfortunatly also doesn't contain information which can be "salvaged".
 
-![NTSC J 4161-4164](https://raw.githubusercontent.com/sttng/Interstella5555/main/NTSC_J_4161-4164.webp "NTSC J 4161-4164")
+![NTSC J 4161-4164](https://raw.githubusercontent.com/sttng/Interstella5555/main/NTSC_J_4161-4164.webp "NTSC J 4161-4164") NTSC (J) DVD
 
-![PAL J 3471-3473](https://raw.githubusercontent.com/sttng/Interstella5555/main/PAL_3471-3473.webp "PAL J 3471-3473")
+![PAL J 3471-3473](https://raw.githubusercontent.com/sttng/Interstella5555/main/PAL_3471-3473.webp "PAL 3471-3473") PAL (DVD)
 
-![Corrected J 3471-3473](https://raw.githubusercontent.com/sttng/Interstella5555/main/Corrected_3471-3473.webp "Corrected J 3471-3473")
+![Corrected J 3471-3473](https://raw.githubusercontent.com/sttng/Interstella5555/main/Corrected_3471-3473.webp "Corrected J 3471-3473") "Photoshopped" from PAL DVD
 
 In other examples such as below some information most likely is lost forever - in that case the middle frame:
 
-![NTSC J 4170-4172](https://raw.githubusercontent.com/sttng/Interstella5555/main/NTSC_J_4170-4172.webp "NTSC J 4161-4164")
+![NTSC J 4170-4172](https://raw.githubusercontent.com/sttng/Interstella5555/main/NTSC_J_4170-4172.webp "NTSC J 4161-4164") NTSC (J) DVD
 
-![PAL 3478-3480](https://raw.githubusercontent.com/sttng/Interstella5555/main/PAL_3478-3480.webp "PAL 3478-3480")
+![PAL 3478-3480](https://raw.githubusercontent.com/sttng/Interstella5555/main/PAL_3478-3480.webp "PAL 3478-3480") PAL DVD
 
 ## Musician, Magician
 
