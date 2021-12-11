@@ -175,7 +175,43 @@ Matrix coefficients                      : BT.709
 
 # NTSC BD
 
-<place holder - I don't have this disk>
+### MediaInfo (Video)
+
+```
+ID in the original source medium         : 4113 (0x1011)
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings                          : CABAC / 4 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 4 frames
+Format settings, GOP                     : M=3, N=24
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1 h 5 min
+Bit rate mode                            : Variable
+Bit rate                                 : 17.5 Mb/s
+Maximum bit rate                         : 28.0 Mb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 (24000/1001) FPS
+Standard                                 : NTSC
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.352
+Stream size                              : 8.01 GiB
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+Original source medium                   : Blu-ray
+```
 
 ## Cover
 <img src="https://raw.githubusercontent.com/sttng/Interstella5555/main/Interstella%205555%20Cover%20(NTSC%20BD).jpg" width="500">
