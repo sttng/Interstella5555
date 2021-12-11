@@ -175,6 +175,13 @@ Matrix coefficients                      : BT.709
 
 # NTSC BD
 
+## Cover
+<img src="https://raw.githubusercontent.com/sttng/Interstella5555/main/Interstella%205555%20Cover%20(NTSC%20BD).jpg" width="500">
+
+## Sample
+
+200 sec. sample of the NTSC BD
+
 ## Technical Details (Video)
 
 - Resolution: 1920x1080
@@ -218,18 +225,7 @@ Color range                              : Limited
 Color primaries                          : BT.709
 Transfer characteristics                 : BT.709
 Matrix coefficients                      : BT.709
-Original source medium                   : Blu-ray
 ```
-
-## Cover
-<img src="https://raw.githubusercontent.com/sttng/Interstella5555/main/Interstella%205555%20Cover%20(NTSC%20BD).jpg" width="500">
-
-## Technical Details (Video)
-<place holder - I don't have this disk>
-
-- Resolution: 1920x1080 
-- Display Size: 1920x1080 
-- Frame Rate: 23.96
 
 # EUR UMD
 
