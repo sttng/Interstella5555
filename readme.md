@@ -175,6 +175,14 @@ Matrix coefficients                      : BT.709
 
 # NTSC BD
 
+## Technical Details (Video)
+
+- Resolution: 1920x1080
+- Display Size: 1920x1080 
+- Frame Rate: 23.976 (24000/1001) FPS
+- Duration: tbc
+- No. of Frames: tbc
+
 ### MediaInfo (Video)
 
 ```
