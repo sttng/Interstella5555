@@ -193,7 +193,7 @@ Matrix coefficients                      : BT.709
 ### MediaInfo (Video)
 
 ```
-ID in the original source medium         : 4113 (0x1011)
+ID                                       : 4113 (0x1011)
 Format                                   : AVC
 Format/Info                              : Advanced Video Codec
 Format profile                           : High@L4.1
@@ -423,8 +423,7 @@ This set is quite interesting. The DVD contains a progessive frame version of "C
 ### MediaInfo (Video)
 
 ```
-ID                                       : 1
-ID in the original source medium         : 224 (0xE0)
+ID                                       : 224 (0xE0)
 Format                                   : MPEG Video
 Format version                           : Version 2
 Format profile                           : Main@Main
