@@ -411,7 +411,7 @@ This set is quite interesting. The DVD contains a progessive frame version of "C
 <img src="https://img.discogs.com/_t_6_lmDxVoRWPYrQm2Xq2HqqbY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5294451-1455843290-1058.png.jpg" width="300">
 
 ## Sample
-[200 sec. sample of the PAL DVD](https://mega.nz/file/D7YnVYKS#5wvRYBKI3nhoGV81PQk6zWD5A-Qy5QTgXEh2wTV0BY8)
+[60 sec. sample](https://mega.nz/file/iuQ2EBqC#kRcNdKE1agnmNNKQpU275YN_Vvsxwqgq9kU9WShD4JM)
 
 ## Technical Details (Video)
 
