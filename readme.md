@@ -400,11 +400,14 @@ PAL DVD Timecode: approx. 33:13  (its the last frame before switching to the ban
 - https://forum.blu-ray.com/showthread.php?t=180760
 
 
-# Daft Punk Daft Club Japanese Promo 2-disc CD/DVD set
+# Daft Club Japanese Promo 2-disc CD/DVD set
 
 https://www.discogs.com/de/release/5294451-Daft-Punk-%E3%83%80%E3%83%95%E3%83%88%E3%83%91%E3%83%B3%E3%82%AF-Daft-Club-%E3%83%80%E3%83%95%E3%83%88%E3%82%AF%E3%83%A9%E3%83%96
 
 This set is quite interesting. The DVD contains a progessive frame version of "Crescendolls" (Track 3). Even so the encoding settings are interlaced it is definitely progressive.
+
+## Cover
+<img src="hhttps://images.eil.com/large_image/DAFT%5FPUNK_DAFT%2BCLUB-325341.jpg" width="500">
 
 ## Disc
 <img src="https://img.discogs.com/_t_6_lmDxVoRWPYrQm2Xq2HqqbY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5294451-1455843290-1058.png.jpg" width="500">
