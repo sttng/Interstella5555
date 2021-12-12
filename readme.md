@@ -281,16 +281,16 @@ Color range                              : Full
 # Findings
 
 - Based on the interlacing comparison the PAL BD seems to be an upscale from the PAL DVD or of a pan-and-scan 4:3 PAL master with simple frame blending as "deinterlacing".
-- The PAL BD is cropped at the top and bottom compared to the PAL DVD.
+- The PAL BD and NTSC BD are cropped at the top and bottom compared to the PAL DVD. Both croppings are the same.
 - The NTSC (J) DVD is cropped at the top and bottom compared to the PAL DVD.
+- PAL BD and NTSC BD seem to have been mastered from the same source, as they have the exact same cropping.
 - The NTSC (J) DVD seems to be produced using a 3:2 pull down Telecine conversion from 24 frames/s to ~29.97 frame/s.
-- No version is using progessive frames unfortunately.
-- The UMD (PSP) version seems to have a similar cropping to the PAL BD version
-- The UMD (PSP) version and the PAL BD version are the only ones having the subtitles in the beginning burnt into the video, making me believe these versions were mastered at the same time.
+- No version is using progessive frames unfortunately (except for one video on the Daft Clup Promo - see further below for details).
+- The UMD (PSP) version seems to have a similar cropping to the PAL BD & NTSC BD version.
+- The UMD (PSP) version, the PAL BD version and the NTSC BD versio are the only ones having the subtitles in the beginning burnt into the video, making me believe all these versions were mastered at the same time.
 - The PAL DVD version seems to be the "best" version as it retains the most image information - due to having no or the smallest cropping of all versions and also having approx 20% (or 96 additional lines) higher vertical resolution then the NTSC (J) DVD.
 - The PAL DVD has a slightly higher *Bits/(Pixel x Frame)* value compared to the NTSC (J) DVD, meaning that it has less compression and in theory a picture more true to the original. In reality however the difference is so small and neglectable that it would be impossible to spot a difference.
 - The PAL BD and the UMD seem to have a slightly brighter and warmer color grading compared to DVD versions.
-- PAL BD and NTSC BD seem to have been mastered from the same source, as they have the exact same cropping.
 - NTSC BD seems to be a tid brighter then the PAL BD.
 
 ## Cropping Examples
