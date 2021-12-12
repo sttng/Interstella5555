@@ -296,7 +296,7 @@ Color range                              : Full
 ## Cropping Examples
 ![Cropping Comparison](https://raw.githubusercontent.com/sttng/Interstella5555/main/Cropping_Examples.jpg "Cropping Comparison")
 
-The EUR UMD and PAL BD have the biggest cropping, the NTSC (J) DVD has minor cropping, the PAL DVD has the least or no cropping and sometimes has 3-4 pixels of black bars at the top and bottom, which indicates the full movie frame was scanned with slight savety margin (no cropping).
+The EUR UMD and PAL BD / NTSC BD have the biggest cropping, the NTSC (J) DVD has minor cropping, the PAL DVD has the least or no cropping and sometimes has 3-4 pixels of black bars at the top and bottom, which indicates the full movie frame was scanned with slight savety margin (no cropping).
 
 ## Frame blending, ghosting, interlacing
 
@@ -393,7 +393,7 @@ PAL DVD Timecode: approx. 24:05
 ![PAL BD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/PAL-BD-06.png "PAL BD") Frame: 50334
 ![NTSC BD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/NTSC-BD-06.png "NTSC BD") Frame: 48269
 
-PAL DVD Timecode: approx. 33:13  (its the last frame before switching to the group)
+PAL DVD Timecode: approx. 33:13  (its the last frame before switching to the band)
 
 # Further Information
 
