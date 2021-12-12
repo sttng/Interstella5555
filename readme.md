@@ -187,7 +187,7 @@ Matrix coefficients                      : BT.709
 - Resolution: 1920x1080
 - Display Size: 1920x1080 
 - Frame Rate: 23.976 (24000/1001) FPS
-- Duration: 01:05:34.22
+- Duration: 01:05:34.973
 - No. of Frames: 94345
 
 ### MediaInfo (Video)
