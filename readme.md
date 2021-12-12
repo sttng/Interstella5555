@@ -398,3 +398,65 @@ PAL DVD Timecode: approx. 33:13  (its the last frame before switching to the ban
 # Further Information
 
 - https://forum.blu-ray.com/showthread.php?t=180760
+
+
+# Daft Punk Daft Club Japanese Promo 2-disc CD/DVD set
+
+https://www.discogs.com/de/release/5294451-Daft-Punk-%E3%83%80%E3%83%95%E3%83%88%E3%83%91%E3%83%B3%E3%82%AF-Daft-Club-%E3%83%80%E3%83%95%E3%83%88%E3%82%AF%E3%83%A9%E3%83%96
+
+This set is quite interesting. The DVD contains a progessive frame version of "Crescendolls" (Track 3). Even so the encoding settings are interlaced it is definitely progressive.
+
+## Disc
+<img src="https://img.discogs.com/_t_6_lmDxVoRWPYrQm2Xq2HqqbY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5294451-1455843290-1058.png.jpg" width="500">
+
+## Sample
+[200 sec. sample of the PAL DVD](https://mega.nz/file/D7YnVYKS#5wvRYBKI3nhoGV81PQk6zWD5A-Qy5QTgXEh2wTV0BY8)
+
+## Technical Details (Video)
+
+- Resolution: 720x480
+- Display Size: 640x480 (720x540)
+- Frame Rate: 29.970 (30000/1001)
+- Duration: tbc
+- No. of Frames: tbc
+
+### MediaInfo (Video)
+
+```
+ID                                       : 1
+ID in the original source medium         : 224 (0xE0)
+Format                                   : MPEG Video
+Format version                           : Version 2
+Format profile                           : Main@Main
+Format settings                          : CustomMatrix / BVOP
+Format settings, BVOP                    : Yes
+Format settings, Matrix                  : Custom
+Format settings, GOP                     : M=3, N=15
+Format settings, picture structure       : Frame
+Codec ID                                 : V_MPEG2
+Codec ID/Info                            : MPEG 1 or 2 Video
+Duration                                 : 3 min 53 s
+Bit rate mode                            : Constant
+Bit rate                                 : 8 200 kb/s
+Width                                    : 720 pixels
+Height                                   : 480 pixels
+Display aspect ratio                     : 4:3
+Frame rate mode                          : Constant
+Frame rate                               : 29.970 (30000/1001) FPS
+Standard                                 : NTSC
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Interlaced
+Scan order                               : Top Field First
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.792
+Time code of first frame                 : 01:00:00:00
+Time code source                         : Group of pictures header
+GOP, Open/Closed                         : Open
+GOP, Open/Closed of first frame          : Closed
+Stream size                              : 228 MiB (84%)
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+```
