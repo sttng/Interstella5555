@@ -459,3 +459,20 @@ Language                                 : English
 Default                                  : No
 Forced                                   : No
 ```
+
+## Comparison
+
+Order: Daft Club DVD, NTSC (J) DVD, PAL DVD
+
+![Daft Club DVD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/Daftclub-01.png "Daft Club DVD") Frame: 221
+![NTSC (J) DVD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/NTSC_J-DVD9-01.png "NTSC (J) DVD") Frame: 33428
+![PAL DVD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/PAL-DVD9-01.png "PAL DVD") Frame: 27888
+
+
+![Daft Club DVD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/Daftclub-02.png "Daft Club DVD") Frame: 2111
+![NTSC (J) DVD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/NTSC_J-DVD9-02.png "NTSC (J) DVD") Frame: 34393
+![PAL DVD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/PAL-DVD9-02.png "PAL DVD") Frame: 28690
+
+![Daft Club DVD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/Daftclub-03.png "Daft Club DVD") Frame: 3146
+![NTSC (J) DVD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/NTSC_J-DVD9-03.png "NTSC (J) DVD") Frame: 34904
+![PAL DVD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/PAL-DVD9-03.png "PAL DVD") Frame: 29115
