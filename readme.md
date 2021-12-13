@@ -467,15 +467,15 @@ Order: Daft Club DVD, NTSC (J) DVD, PAL DVD, EUR UMD
 ![Daft Club DVD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/Daftclub-01.png "Daft Club DVD") Frame: 221
 ![NTSC (J) DVD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/NTSC_JAP_DVD9-01.png "NTSC (J) DVD") Frame: 33428
 ![PAL DVD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/PAL_DVD9-01.png "PAL DVD") Frame: 27888
-![EUR UMD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/EUR_UMD-01.png "EUR UMD") Frame: 69757
+![EUR UMD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/EUR_UMD9-01.png "EUR UMD") Frame: 69757
 
 
 ![Daft Club DVD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/Daftclub-02.png "Daft Club DVD") Frame: 2111
 ![NTSC (J) DVD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/NTSC_JAP_DVD9-02.png "NTSC (J) DVD") Frame: 34393
 ![PAL DVD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/PAL_DVD9-02.png "PAL DVD") Frame: 28690
-![EUR UMD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/EUR_UMD-02.png "EUR UMD") Frame: 71771
+![EUR UMD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/EUR_UMD9-02.png "EUR UMD") Frame: 71771
 
 ![Daft Club DVD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/Daftclub-03.png "Daft Club DVD") Frame: 3146
 ![NTSC (J) DVD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/NTSC_JAP_DVD9-03.png "NTSC (J) DVD") Frame: 34904
 ![PAL DVD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/PAL_DVD9-03.png "PAL DVD") Frame: 29115
-![EUR UMD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/EUR_UMD-02.png "EUR UMD") Frame: 72837
+![EUR UMD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/EUR_UMD9-03.png "EUR UMD") Frame: 72837
