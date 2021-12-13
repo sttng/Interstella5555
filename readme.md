@@ -404,7 +404,7 @@ PAL DVD Timecode: approx. 33:13  (its the last frame before switching to the ban
 
 https://www.discogs.com/de/release/5294451-Daft-Punk-%E3%83%80%E3%83%95%E3%83%88%E3%83%91%E3%83%B3%E3%82%AF-Daft-Club-%E3%83%80%E3%83%95%E3%83%88%E3%82%AF%E3%83%A9%E3%83%96
 
-This set is quite interesting. The DVD contains a progessive frame version of "Crescendolls" (Track 3). Even so the encoding settings are interlaced it is definitely progressive.
+This promo set is quite interesting. The DVD contains a progessive frame version of "Crescendolls" (Track 3). Even so the encoding settings are interlaced it is definitely progressive.
 
 ## Cover & DVD
 <img src="https://images.eil.com/large_image/DAFT%5FPUNK_DAFT%2BCLUB-325341.jpg" width="300"><img src="https://img.discogs.com/_t_6_lmDxVoRWPYrQm2Xq2HqqbY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5294451-1455843290-1058.png.jpg" width="300">
@@ -462,7 +462,7 @@ Forced                                   : No
 
 ## Comparison
 
-Order: Daft Club DVD, NTSC (J) DVD, PAL DVD, EUR UMD
+Order: Daft Club DVD, NTSC (J) DVD, PAL DVD, EUR UMD, NTSC BD
 
 ![Daft Club DVD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/Daftclub-01.png "Daft Club DVD") Frame: 221
 ![NTSC (J) DVD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/NTSC_JAP_DVD9-01.png "NTSC (J) DVD") Frame: 33428
