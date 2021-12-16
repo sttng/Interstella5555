@@ -117,6 +117,61 @@ Language                                 : English
 Default                                  : No
 Forced                                   : No
 ```
+# NTSC (US) DVD
+
+## Cover
+<img src="https://raw.githubusercontent.com/sttng/Interstella5555/main/Interstella%205555%20Cover%20(NTSC%20US%20DVD).jpg" width="500">
+
+## Sample
+[200 sec. sample of the NTSC US DVD](https://mega.nzw)
+
+## Technical Details (Video)
+
+- Resolution: 720x480
+- Display Size: 640x480 (720x540)
+- Frame Rate: 29.970 (30000/1001) FPS
+- Duration: tbd
+- No. of Frames: tbd
+
+### MediaInfo (Video)
+
+```
+ID                                       : 224 (0xE0)
+Format                                   : MPEG Video
+Format version                           : Version 2
+Format profile                           : Main@Main
+Format settings                          : CustomMatrix / BVOP
+Format settings, BVOP                    : Yes
+Format settings, Matrix                  : Custom
+Format settings, GOP                     : M=3, N=12
+Format settings, picture structure       : Frame
+Codec ID                                 : V_MPEG2
+Codec ID/Info                            : MPEG 1 or 2 Video
+Duration                                 : 1 h 5 min
+Bit rate mode                            : Variable
+Bit rate                                 : 7 123 kb/s
+Maximum bit rate                         : 7 800 kb/s
+Width                                    : 720 pixels
+Height                                   : 480 pixels
+Display aspect ratio                     : 4:3
+Frame rate mode                          : Constant
+Frame rate                               : 29.970 (30000/1001) FPS
+Standard                                 : NTSC
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Interlaced
+Scan order                               : Top Field First
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.688
+Time code of first frame                 : 10:00:00;00
+Time code source                         : Group of pictures header
+GOP, Open/Closed                         : Open
+Stream size                              : 3.24 GiB (84%)
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+```
 
 # PAL BD
 
