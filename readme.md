@@ -123,7 +123,7 @@ Forced                                   : No
 <img src="https://raw.githubusercontent.com/sttng/Interstella5555/main/Interstella%205555%20Cover%20(NTSC%20US%20DVD).jpg" width="500">
 
 ## Sample
-[200 sec. sample of the NTSC US DVD](https://mega.nzw)
+[200 sec. sample of the NTSC US DVD](https://mega.nz/file/DmBBlCJK#P6uwo0EDDZ0VhzrGo_5cY6nFdZbBJ2ca_vOBqJKorVw)
 
 ## Technical Details (Video)
 
