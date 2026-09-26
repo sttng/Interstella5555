@@ -538,6 +538,12 @@ Order: Daft Club DVD, NTSC (J) DVD, PAL DVD, EUR UMD, NTSC BD
 ![EUR UMD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/EUR_UMD9-03.png "EUR UMD") Frame: 72837
 ![NTSC BD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/NTSC_BD9-03.png "NTSC BD") Frame: 28389
 
+#  Terrible AI-Upscaled "Remaster"
+
+There exists a terrible AI-Upscaled "Remaster"by Trafalgar Events which was premiered in theaters in 12. December 2024. It often looks okay, but when it's bad, it's real bad.
+
+![Trafalgar Events AI remaster](https://raw.githubusercontent.com/sttng/Interstella5555/refs/heads/main/screens/Trafalgar%20Events%20AI-remaster.webp)
+
 
 # The Restoration Pipeline
 
@@ -553,7 +559,7 @@ SRestore(frate=23.976)
 ```
 
 * QTGMC handles motion-compensated deinterlacing without vertical resolution loss.
-* SRestore detects and discards the blended/ghosted fields, successfully restoring the native 23.976 fps film cadence.
+* SRestore detects and discards the blended/ghosted fields, restoring it to 23.976 fps film cadence. Still I think the Japanese master is 29.97 fps (or 30 fps), like the DAFT CLUB DVD.
 
 ### Cropping & Resizing:
 
