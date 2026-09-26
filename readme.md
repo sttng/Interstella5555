@@ -537,3 +537,42 @@ Order: Daft Club DVD, NTSC (J) DVD, PAL DVD, EUR UMD, NTSC BD
 ![PAL DVD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/PAL_DVD9-03.png "PAL DVD") Frame: 29115
 ![EUR UMD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/EUR_UMD9-03.png "EUR UMD") Frame: 72837
 ![NTSC BD](https://raw.githubusercontent.com/sttng/Interstella5555/main/screens/NTSC_BD9-03.png "NTSC BD") Frame: 28389
+
+
+# The Restoration Pipeline
+
+A community restoration project by Reddit user **u/Fractal-Infinity**, tackled the PAL blend/ghosting issue documented.
+
+### Using AviSynth, the PAL telecine blend that ruined the European release was reversed:
+ 
+Deinterlacing & De-blending:
+
+```
+QTGMC(Preset="Slower")
+SRestore(frate=23.976)
+```
+
+* QTGMC handles motion-compensated deinterlacing without vertical resolution loss.
+* SRestore detects and discards the blended/ghosted fields, successfully restoring the native 23.976 fps film cadence.
+
+### Cropping & Resizing:
+
+* Cleaned the frame borders and resized to square pixels (744×560, ~4:3) using Spline36Resize.
+
+### High-Fidelity Upscaling (1080p & 4K):
+
+* Unlike the controversial 2024 theatrical AI remaster (which used generative diffusion models that melted linework and faces), this project used edge-directed neural interpolation (nnedi3_rpow2)combined with TemporalDegrain2 and LSFMod.
+* Preserves the full uncropped 4:3 aspect ratio (1440×1080 and 2880×2160) and includes multi-audio tracks (Original 5.1 AC3, Original 2.0 AC3, and Normalized 2.0 AAC).
+
+## Public Releases & Sources
+
+* SD Cleaned PAL Master (1.3 GB MKV):
+* Reddit Thread: https://www.reddit.com/r/DaftPunk/comments/1hlq9b3/interstella_5555_pal_dvd_properly_deinterlaced/
+* Archive.org: https://archive.org/details/interstella-5555-2003 (Note: download the MKV file directly; the auto-generated MP4 is heavily compressed)
+* Browser Playable Sample: https://pastebin.com/b4iaBv2f
+* 1080p Upscale (2.7 GB MKV - nnedi3_rpow2):
+* Archive.org: https://archive.org/details/interstella-5555-2003-1080p
+* Mirrors: https://pastebin.com/y0Th57AT
+* 4K Upscale (6.9 GB MKV - nnedi3_rpow2):
+* Archive.org: https://archive.org/details/interstella-5555-2003-4k
+* Mirrors: https://pastebin.com/unjVj5TR / https://pastebin.com/p3dy8tcu
